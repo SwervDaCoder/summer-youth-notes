@@ -1,4 +1,6 @@
 # Windows Shortcut Commands
+* `Windows + e`
+	* opens file explorer 
 * `Windows + R` 
 	* opens the command runner
 * `Ctrl+c`
