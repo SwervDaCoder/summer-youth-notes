@@ -1,19 +1,6 @@
-# Intro to Command Prompt
- 
+# New Castle County Summer Youth Notes
 
-## Basic Commands
-* `cmd`
-	* opens the command prompt 
-* `cd the-specified-directory`
-	* changes the directory to `the-specified-directory`
-* `cd .`
-	* changes to current directory
-* `explorer .`
-	* opens current directory 
-* `dir`
- 	* lists all files in the current directory
-* `mkdir`
-	* create a folder in the current directory  
-
-
-
+### Development Notes
+* Click [here](./creating-a-git-repository.md) to view how to **create a git repository**.
+* Click [here](./dos-commands.md) to view some of the **dos commands**
+* Click [here](./windows-shortcut-commands) to view some of the **windows shortcut commands**
