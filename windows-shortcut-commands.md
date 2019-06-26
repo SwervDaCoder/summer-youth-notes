@@ -7,9 +7,9 @@
 	* pastes the copied text   
 * `Ctrl+z`
 	* undoes the most recent command
-* `Ctrl+shift+z`
+* `Ctrl+Shift+z`
 	* redoes the most recently undone command
-* `Alt+tab`
+* `Alt+Tab`
 	* switches the active application window 
 * `Alt+Shift+Tab`
 	* switches the active application window in the opposite direction
